@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MBRLiang(You can also call me Shanbo Liang)
+- 👋 Hi, I’m @
 - 👀 I’m interested in playing computer(no games)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
